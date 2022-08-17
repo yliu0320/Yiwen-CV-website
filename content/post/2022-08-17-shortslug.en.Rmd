@@ -1,0 +1,21 @@
+---
+title: Fancy Blog Post
+author: Yiwen Liu
+date: '2022-08-17'
+slug: shortslug
+categories:
+  - demo
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-08-17T11:35:16+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+This is my first blog.
