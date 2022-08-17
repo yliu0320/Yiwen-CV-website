@@ -89,6 +89,17 @@
     </item>
     
     <item>
+      <title>New Post</title>
+      <link>/post/new-post/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/post/new-post/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
